@@ -10,6 +10,9 @@
 
 </span>
 
+> [!WARNING]
+> I have stopped using Homebridge and migrated my own setup to Home Assistant. I'm therefore unable to continue support for this library. It's feature-complete and should work as-is, but I can't guarantee compatibility with future versions of Homebridge. Feel free to fork it and continue working on it!
+
 This is a plugin for [homebridge](https://github.com/homebridge/homebridge). It monitors who is at home, based on their smartphone being seen on the network recently.
 If you use the Elgato Eve app you can also see the history of every person sensor (powered by [fakegato](https://github.com/simont77/fakegato-history]) - only works for sensors configured as "motion" sensors).
 
